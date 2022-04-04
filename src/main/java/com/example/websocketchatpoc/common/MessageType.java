@@ -1,5 +1,5 @@
 package com.example.websocketchatpoc.common;
 
 public enum MessageType {
-    ENTER, TALK
+    ENTER, TALK, LEAVE
 }
